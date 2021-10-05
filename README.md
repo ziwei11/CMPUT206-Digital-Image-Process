@@ -1,2 +1,9 @@
 # CMPUT206-Digital-Image-Process
-An introduction to basic digital image processing theory, and the tools that make advanced image manipulation possible for ordinary users. Image processing is important in many applications: editing and processing photographs, special effects for movies, drawing animated characters starting with photographs, analyzing and enhancing remote imagery, and detecting suspects from surveillance cameras. Image processing concepts are introduced using tools like Photoshop and GIMP. Exposure to simple image processing programming with Python in Colab. 
+An introduction to basic digital image processing theory, and the tools that make advanced image manipulation possible for ordinary users. 
+
+Assignment1: Histogram's Compute, Equalization, Comparing, and Matching
+
+Assignemnt2: Filter the Grayscale Image, Median Filter and Gaussian Filter, Simple Image Inpainting, Edges, Canny Edge Detector
+
+
+
