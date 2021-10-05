@@ -5,5 +5,10 @@ Assignment1: Histogram's Compute, Equalization, Comparing, and Matching
 
 Assignemnt2: Filter the Grayscale Image, Median Filter and Gaussian Filter, Simple Image Inpainting, Edges, Canny Edge Detector
 
-Assignment6: Train neural network on MNIST handwritten digit dataset
+Assignment3: BasicBayer, Floyd-Steinberg Dithering, Image Rotation and Scaling, Merge Two Pictures by Skimage-Python
 
+Assignment4: Laplacian-of-Gaussian Volume, Estimate of Blob Locations, Otsu Thresholding
+
+Assignment5: Zigzag Scan, JPEG Encoder, JPEG Decoder
+
+Assignment6: Train neural network on MNIST handwritten digit dataset
