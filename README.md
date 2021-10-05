@@ -5,5 +5,5 @@ Assignment1: Histogram's Compute, Equalization, Comparing, and Matching
 
 Assignemnt2: Filter the Grayscale Image, Median Filter and Gaussian Filter, Simple Image Inpainting, Edges, Canny Edge Detector
 
-
+Assignment6: Train neural network on MNIST handwritten digit dataset
 
